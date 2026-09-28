@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "CryoNexus_AI",
+			"path": "../../CryoNexus_AI"
+		}
+	],
+	"settings": {}
+}
