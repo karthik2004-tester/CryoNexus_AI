@@ -224,9 +224,18 @@ backend/models/
 backend/__pycache__/
 backend/**/*.pyc
 
-# Frontend local dependencies and builds
+# Frontend & Node
+node_modules/
 frontend/node_modules/
+dist/
+dist-ssr/
 frontend/dist/
+*.local
+
+# Environment and secrets
+.env
+.env.*
+.envrc
 
 # Local backups and archives
 frontend_backup/
@@ -238,3 +247,6 @@ CryoNexus_AI/
 *.sqlite
 *.sqlite3
 *.log
+
+# System files
+.DS_Store
