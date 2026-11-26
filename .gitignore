@@ -216,3 +216,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# CryoNexus AI - local secrets and large assets
+backend/.env
+backend/venv/
+backend/models/
+backend/__pycache__/
+backend/**/*.pyc
+
+# Frontend local dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Local backups and archives
+frontend_backup/
+frontend.zip
+CryoNexus_AI/
+
+# Local databases and runtime files
+*.db
+*.sqlite
+*.sqlite3
+*.log

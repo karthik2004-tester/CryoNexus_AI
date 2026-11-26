@@ -1,0 +1,174 @@
+﻿CRYONEXUS AI - COLD CHAIN REFERENCE KNOWLEDGE
+Document: Cold Chain Fundamentals
+Version: 1.0
+Type: General reference material
+Status: Educational guidance - NOT an official company SOP
+
+==================================================
+1. WHAT IS COLD-CHAIN LOGISTICS?
+==================================================
+
+Cold-chain logistics is the process of storing, handling and transporting
+temperature-sensitive products under specified environmental conditions.
+
+The objective is to maintain the product's required temperature range
+throughout its journey, from origin to destination.
+
+Common temperature-sensitive products include:
+- Fresh fruits and vegetables
+- Dairy products
+- Frozen foods
+- Pharmaceuticals
+- Biological materials
+
+The acceptable temperature range depends on the specific product.
+Never assume that one temperature range applies to every shipment.
+
+==================================================
+2. TEMPERATURE MONITORING
+==================================================
+
+Temperature monitoring helps operators identify deviations from the
+required shipment temperature.
+
+Important values:
+- Current temperature: Latest recorded shipment temperature.
+- Required temperature: Product-specific target or permitted range.
+- Temperature deviation: Difference between the recorded temperature
+  and the applicable target or permitted limit.
+
+A temperature deviation should trigger investigation.
+
+Recommended investigation steps:
+1. Verify the recorded reading and its timestamp.
+2. Compare it with the shipment's required temperature range.
+3. Check refrigeration equipment and power supply.
+4. Review available historical temperature readings.
+5. Record the incident and notify the responsible operator.
+6. Follow the applicable product-specific SOP.
+
+A single reading does not always establish product damage or spoilage.
+Product disposition should be decided using validated procedures and
+qualified personnel.
+
+==================================================
+3. BATTERY AND POWER MONITORING
+==================================================
+
+Battery status can affect refrigeration equipment and monitoring devices.
+
+Operators should consider:
+- Current battery percentage.
+- Battery discharge trend.
+- Availability of an external power supply.
+- Refrigeration equipment operating status.
+- Estimated remaining operating time, if reliably available.
+
+A low battery reading should prompt an equipment and power-supply check.
+
+Do not assume that a particular battery percentage guarantees a specific
+remaining refrigeration duration. Actual runtime depends on equipment,
+battery capacity, load and operating conditions.
+
+==================================================
+4. SHIPMENT DELAYS
+==================================================
+
+Shipment delays can increase the time a product remains in transit.
+
+Possible causes include:
+- Traffic congestion.
+- Vehicle breakdown.
+- Weather-related disruption.
+- Loading or unloading delays.
+- Route restrictions.
+- Hub or warehouse congestion.
+
+Recommended actions:
+1. Check the latest available shipment status.
+2. Review the estimated arrival time and reported delay.
+3. Assess the refrigeration and battery status.
+4. Identify whether an alternate route or hub is feasible.
+5. Inform the responsible operations team.
+6. Record decisions and relevant timestamps.
+
+An estimated delay should not be presented as a confirmed delivery time.
+
+==================================================
+5. TEMPERATURE EXCURSION RESPONSE
+==================================================
+
+A temperature excursion occurs when a recorded temperature moves outside
+the applicable product-specific permitted range.
+
+A general response workflow is:
+
+1. DETECT
+   Identify the temperature deviation.
+
+2. VERIFY
+   Check the reading, timestamp and available supporting records.
+
+3. INVESTIGATE
+   Inspect refrigeration, power supply, vehicle conditions and shipment
+   handling information.
+
+4. ESCALATE
+   Notify the responsible operator or qualified personnel according
+   to the applicable SOP.
+
+5. DOCUMENT
+   Record readings, observations, actions and decisions.
+
+6. REVIEW
+   Determine the next action using validated product-specific procedures.
+
+Do not automatically declare a shipment safe or unsafe based only on
+one temperature reading.
+
+==================================================
+6. IMPORTANT OPERATIONAL METRICS
+==================================================
+
+Temperature deviation:
+Difference between the recorded temperature and the applicable target.
+
+Battery level:
+Reported remaining battery charge as a percentage.
+
+Shipment delay:
+Difference between the expected and updated delivery schedule.
+
+Estimated time of arrival:
+A calculated estimate based on available route and timing information.
+
+Temperature trend:
+A sequence of readings used to understand how temperature changes
+over time.
+
+These metrics should be interpreted together rather than in isolation.
+
+==================================================
+7. LIMITATIONS AND SAFETY
+==================================================
+
+This document provides general educational guidance only.
+
+It is not:
+- An official company operating procedure.
+- A substitute for product-specific storage requirements.
+- A regulatory compliance document.
+- A food-safety or pharmaceutical quality assessment.
+
+CryoNexus AI must not invent missing telemetry, shipment events,
+company policies or regulatory requirements.
+
+When information is insufficient, the system should clearly explain
+what information is missing.
+
+For safety-critical decisions, users must follow validated product-specific
+SOPs and consult qualified personnel.
+
+==================================================
+END OF DOCUMENT
+==================================================
